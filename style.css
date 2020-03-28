@@ -1,0 +1,43 @@
+body{
+    font-family: 'Oxygen', sans-serif;
+}
+.gambar{
+    background: url("images/1.jpg");
+    width:auto;
+    padding: 30px;
+}.gambar h1{
+    text-align: center;
+    color: cornsilk;
+}
+
+.container h2{
+    padding: 10px;
+}
+
+.card-deck h6 a{
+    color: green;
+    font-weight: bold;
+}
+
+/* .card-deck a:hover{
+    box-shadow: black;
+} */
+
+.container h1{
+    padding: 10px;
+}
+
+button a{
+    color: white;
+}
+
+.cardA{
+    margin-left: 390px;
+}
+
+.cardA h6{
+    background-color: green;
+    padding: 10px;
+    text-align: center;
+}
+
